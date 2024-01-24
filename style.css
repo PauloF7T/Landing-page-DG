@@ -1,0 +1,21 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: 'Courier New', Courier, monospace;
+}
+body{
+    background-color: seagreen;
+
+}
+.logo{
+    display: flex;
+    justify-content: start;
+}
+.titulo-inicial{
+    display: flex;
+    justify-content: center;
+    color: #fff;
+}
+.main-header{
+    background-color: #004e71;
+}
