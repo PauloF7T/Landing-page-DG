@@ -7,15 +7,29 @@ body{
     background-color: seagreen;
 
 }
-.logo{
+.cabecalho{
     display: flex;
-    justify-content: start;
-}
-.titulo-inicial{
-    display: flex;
-    justify-content: center;
-    color: #fff;
-}
-.main-header{
     background-color: #004e71;
+}
+.cabeca {
+    display: flex;
+}
+.texto{
+    margin-bottom: 10px;
+    margin-top: 16px;
+    color:#fff;
+}
+.button-click{
+    background-color: #fff;
+    border: 1px solid rgba(255,255,255,.2);
+    display: flex;
+    margin-left: 650px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.click{
+    background-color: #f77f08;
+    color: #fff;
+    font-size: 12.5px;
 }
