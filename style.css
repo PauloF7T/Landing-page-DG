@@ -33,3 +33,28 @@ body{
     color: #fff;
     font-size: 12.5px;
 }
+.produto{
+    background-color: #fff;
+}
+.Texto-principal{
+    display: flex;
+    justify-content: ;
+    margin-left: 160px;
+    
+}
+.subtitulo-principal{
+    display: flex;
+    /* justify-content: center; */
+    font-size: small;
+    margin-left: 260px;
+}
+.final {
+    display: flex;
+    /* justify-content: center; */
+    margin-left: 260px;
+}
+.modelo{
+    display: flex;
+    height: 300px;
+    justify-content: end;
+}
